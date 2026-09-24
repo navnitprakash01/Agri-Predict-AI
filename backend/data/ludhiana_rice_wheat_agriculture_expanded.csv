@@ -1,0 +1,7 @@
+crop_year,district,rice_area_ha,rice_production_t,rice_yield_kg_ha,wheat_area_ha,wheat_production_t,wheat_yield_kg_ha,source,data_status
+1970-71,Ludhiana,5000,9000,1800,338000,780000,3279,AERC/PAU district table,observed/source-reported
+1980-81,Ludhiana,94000,356000,3790,265000,838000,3163,AERC/PAU district table,observed/source-reported
+1990-91,Ludhiana,225000,824000,3662,269000,1148000,4268,AERC/PAU district table,observed/source-reported
+2000-01,Ludhiana,238000,939000,3947,258000,1334000,5169,AERC/PAU district table,observed/source-reported
+2009-10,Ludhiana,257000,1206000,4692,259000,1200000,4634,AERC/PAU district table,observed/source-reported
+2023-24,Ludhiana,258800,1961000,7578,243600,1247700,5122,"Punjab Agricultural University / Department of Agriculture & Farmers' Welfare, Punjab",observed/source-reported

@@ -1,0 +1,1810 @@
+state,district,location,latitude,longitude,date,groundwater_level_m_bgl,measurement
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,1994-01-01,3.6,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,1994-01-01,9.8,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,1994-01-01,7.0,jan
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,1994-01-01,8.4,jan
+Punjab,Ludhiana,Jagraon Chowkiman,30.82083,75.60694,1994-01-01,9.0,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,1994-01-01,11.1,jan
+Punjab,Ludhiana,Jagraon Manoke,30.67639,75.46056,1994-01-01,12.4,jan
+Punjab,Ludhiana,Ludhiana City Mudian Kalan,30.8875,75.925,1994-01-01,9.8,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,1994-01-01,8.0,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,1994-01-01,2.7,jan
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,1994-01-01,3.8,jan
+Punjab,Ludhiana,Ludhiana-2 Malakpur,30.92083,75.72222,1994-01-01,11.2,jan
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,1994-01-01,7.9,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,1994-01-01,10.4,jan
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,1994-01-01,10.9,jan
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,1994-01-01,8.5,jan
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,1994-01-01,12.1,jan
+Punjab,Ludhiana,Machhiwara Jodhwal,30.96611,76.20583,1994-01-01,3.4,jan
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,1994-01-01,13.4,jan
+Punjab,Ludhiana,Raikot Gobindgarh,30.6,75.5875,1994-01-01,8.3,jan
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,1994-01-01,14.1,jan
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,1994-01-01,10.2,jan
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,1994-01-01,9.0,jan
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,1994-01-01,8.5,jan
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.93583,76.30361,1994-01-01,2.3,jan
+Punjab,Ludhiana,Machhiwara Sahlumajra,30.90611,76.25306,1994-01-01,5.0,jan
+Punjab,Ludhiana,Machhiwara Punian,30.87556,76.14361,1994-01-01,2.9,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,1994-01-01,8.3,jan
+Punjab,Ludhiana,Pakhowal Gujjarwal,30.74167,75.74167,1994-01-01,10.2,jan
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,1994-05-01,10.03,pre
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,1994-05-01,11.01,pre
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,1994-05-01,9.86,pre
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,1994-05-01,14.65,pre
+Punjab,Ludhiana,Raikot Gobindgarh,30.6,75.5875,1994-05-01,9.92,pre
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,1994-05-01,13.17,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,1994-05-01,7.85,pre
+Punjab,Ludhiana,Sidhwan Bet Lilan,30.875,75.47917,1994-05-01,9.6,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,1994-05-01,4.59,pre
+Punjab,Ludhiana,Jagraon Chowkiman,30.82083,75.60694,1994-05-01,9.64,pre
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,1994-05-01,10.07,pre
+Punjab,Ludhiana,Dehlon Dehlon,30.75417,75.84167,1994-05-01,6.38,pre
+Punjab,Ludhiana,Pakhowal Gujjarwal,30.74167,75.74167,1994-05-01,10.85,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,1994-05-01,9.89,pre
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,1994-05-01,9.05,pre
+Punjab,Ludhiana,Ludhiana City Mudian Kalan,30.8875,75.925,1994-05-01,13.24,pre
+Punjab,Ludhiana,Machhiwara Sahlumajra,30.90611,76.25306,1994-05-01,5.1,pre
+Punjab,Ludhiana,Khanna Khanna,30.72083,76.20833,1994-05-01,11.42,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,1994-05-01,14.74,pre
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,1994-05-01,11.36,pre
+Punjab,Ludhiana,Ludhiana-1 Gill,30.85417,75.85833,1994-05-01,12.35,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,1994-05-01,9.43,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,1994-05-01,3.04,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,1994-05-01,9.96,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,1994-05-01,4.15,pre
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,1994-05-01,8.49,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,1994-05-01,10.95,pre
+Punjab,Ludhiana,Machhiwara Jodhwal,30.96611,76.20583,1994-05-01,5.12,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,1994-05-01,8.8,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,1994-05-01,8.9,pre
+Punjab,Ludhiana,Machhiwara Punian,30.87556,76.14361,1994-05-01,3.85,pre
+Punjab,Ludhiana,Ludhiana-2 Malakpur,30.92083,75.72222,1994-05-01,11.14,pre
+Punjab,Ludhiana,Jagraon Manoke,30.67639,75.46056,1994-05-01,10.79,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,1994-05-01,12.1,pre
+Punjab,Ludhiana,Dehlon Dehlon,30.75417,75.84167,1995-01-01,7.8,jan
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,1995-01-01,7.9,jan
+Punjab,Ludhiana,Jagraon Chowkiman,30.82083,75.60694,1995-01-01,9.6,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,1995-01-01,10.9,jan
+Punjab,Ludhiana,Jagraon Manoke,30.67639,75.46056,1995-01-01,12.5,jan
+Punjab,Ludhiana,Khanna Khanna,30.72083,76.20833,1995-01-01,11.0,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,1995-01-01,15.1,jan
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,1995-01-01,11.7,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,1995-01-01,8.9,jan
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,1995-01-01,2.5,jan
+Punjab,Ludhiana,Ludhiana-2 Malakpur,30.92083,75.72222,1995-01-01,10.7,jan
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,1995-01-01,8.2,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,1995-01-01,9.6,jan
+Punjab,Ludhiana,Machhiwara Jodhwal,30.96611,76.20583,1995-01-01,3.5,jan
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,1995-01-01,8.2,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,1995-01-01,8.5,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,1995-01-01,2.6,jan
+Punjab,Ludhiana,Machhiwara Sahlumajra,30.90611,76.25306,1995-01-01,4.5,jan
+Punjab,Ludhiana,Machhiwara Punian,30.87556,76.14361,1995-01-01,3.3,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,1995-01-01,3.2,jan
+Punjab,Ludhiana,Sidhwan Bet Lilan,30.875,75.47917,1995-01-01,8.4,jan
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,1995-01-01,4.6,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,1995-01-01,9.6,jan
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,1995-01-01,14.3,jan
+Punjab,Ludhiana,Raikot Gobindgarh,30.6,75.5875,1995-01-01,9.8,jan
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,1995-01-01,12.1,jan
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,1995-01-01,10.2,jan
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,1995-01-01,9.8,jan
+Punjab,Ludhiana,Pakhowal Gujjarwal,30.74167,75.74167,1995-01-01,10.6,jan
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,1995-01-01,8.8,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,1995-01-01,9.1,jan
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,1995-01-01,15.0,jan
+Punjab,Ludhiana,Jagraon Chowkiman,30.82083,75.60694,1995-05-01,9.64,pre
+Punjab,Ludhiana,Ludhiana City Mudian Kalan,30.8875,75.925,1995-05-01,13.24,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,1995-05-01,11.35,pre
+Punjab,Ludhiana,Jagraon Manoke,30.67639,75.46056,1995-05-01,12.74,pre
+Punjab,Ludhiana,Khanna Khanna,30.72083,76.20833,1995-05-01,11.31,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,1995-05-01,15.45,pre
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,1995-05-01,11.91,pre
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,1995-05-01,8.49,pre
+Punjab,Ludhiana,Ludhiana-1 Gill,30.85417,75.85833,1995-05-01,12.35,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,1995-05-01,9.31,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,1995-05-01,7.56,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,1995-05-01,3.82,pre
+Punjab,Ludhiana,Ludhiana-2 Malakpur,30.92083,75.72222,1995-05-01,12.21,pre
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,1995-05-01,8.53,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,1995-05-01,9.27,pre
+Punjab,Ludhiana,Dehlon Dehlon,30.75417,75.84167,1995-05-01,6.38,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,1995-05-01,8.87,pre
+Punjab,Ludhiana,Machhiwara Sahlumajra,30.90611,76.25306,1995-05-01,4.9,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,1995-05-01,11.35,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,1995-05-01,3.86,pre
+Punjab,Ludhiana,Sidhwan Bet Lilan,30.875,75.47917,1995-05-01,9.6,pre
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,1995-05-01,5.1,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,1995-05-01,10.3,pre
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,1995-05-01,13.11,pre
+Punjab,Ludhiana,Machhiwara Punian,30.87556,76.14361,1995-05-01,3.51,pre
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,1995-05-01,14.33,pre
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,1995-05-01,15.5,pre
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,1995-05-01,10.52,pre
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,1995-05-01,10.13,pre
+Punjab,Ludhiana,Pakhowal Gujjarwal,30.74167,75.74167,1995-05-01,11.07,pre
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,1995-05-01,9.27,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,1995-05-01,9.77,pre
+Punjab,Ludhiana,Raikot Gobindgarh,30.6,75.5875,1995-05-01,10.6,pre
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,1996-01-01,12.2,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,1996-01-01,2.6,jan
+Punjab,Ludhiana,Jagraon Manoke,30.67639,75.46056,1996-01-01,10.0,jan
+Punjab,Ludhiana,Ludhiana City Mudian Kalan,30.8875,75.925,1996-01-01,10.6,jan
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,1996-01-01,10.6,jan
+Punjab,Ludhiana,Ludhiana-1 Gill,30.85417,75.85833,1996-01-01,9.2,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,1996-01-01,8.1,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,1996-01-01,2.5,jan
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,1996-01-01,3.1,jan
+Punjab,Ludhiana,Ludhiana-2 Malakpur,30.92083,75.72222,1996-01-01,10.6,jan
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,1996-01-01,7.8,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,1996-01-01,11.3,jan
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,1996-01-01,8.5,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,1996-01-01,9.0,jan
+Punjab,Ludhiana,Machhiwara Punian,30.87556,76.14361,1996-01-01,2.9,jan
+Punjab,Ludhiana,Machhiwara Sahlumajra,30.90611,76.25306,1996-01-01,4.9,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,1996-01-01,9.3,jan
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,1996-01-01,7.6,jan
+Punjab,Ludhiana,Pakhowal Gujjarwal,30.74167,75.74167,1996-01-01,8.9,jan
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,1996-01-01,8.1,jan
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,1996-01-01,8.4,jan
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,1996-01-01,12.9,jan
+Punjab,Ludhiana,Raikot Gobindgarh,30.6,75.5875,1996-01-01,9.8,jan
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,1996-01-01,11.4,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,1996-01-01,14.5,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,1996-01-01,9.8,jan
+Punjab,Ludhiana,Dehlon Dehlon,30.75417,75.84167,1996-01-01,6.9,jan
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,1996-01-01,10.0,jan
+Punjab,Ludhiana,Sidhwan Bet Lilan,30.875,75.47917,1996-01-01,7.4,jan
+Punjab,Ludhiana,Jagraon Chowkiman,30.82083,75.60694,1996-01-01,6.8,jan
+Punjab,Ludhiana,Sidhwan Bet Lilan,30.875,75.47917,1996-05-01,8.0,pre
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,1996-05-01,7.59,pre
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,1996-05-01,12.92,pre
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,1996-05-01,13.79,pre
+Punjab,Ludhiana,Raikot Gobindgarh,30.6,75.5875,1996-05-01,10.17,pre
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,1996-05-01,14.75,pre
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,1996-05-01,9.0,pre
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,1996-05-01,8.45,pre
+Punjab,Ludhiana,Pakhowal Gujjarwal,30.74167,75.74167,1996-05-01,9.21,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,1996-05-01,11.2,pre
+Punjab,Ludhiana,Machhiwara Sahlumajra,30.90611,76.25306,1996-05-01,4.9,pre
+Punjab,Ludhiana,Machhiwara Punian,30.87556,76.14361,1996-05-01,4.0,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,1996-05-01,9.68,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,1996-05-01,8.07,pre
+Punjab,Ludhiana,Machhiwara Jodhwal,30.96611,76.20583,1996-05-01,13.77,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,1996-05-01,11.5,pre
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,1996-05-01,7.92,pre
+Punjab,Ludhiana,Ludhiana-2 Malakpur,30.92083,75.72222,1996-05-01,11.16,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,1996-05-01,3.5,pre
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,1996-05-01,8.75,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,1996-05-01,3.99,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,1996-05-01,8.58,pre
+Punjab,Ludhiana,Ludhiana City Mudian Kalan,30.8875,75.925,1996-05-01,10.14,pre
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,1996-05-01,10.94,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,1996-05-01,8.9,pre
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,1996-05-01,9.12,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,1996-05-01,2.81,pre
+Punjab,Ludhiana,Jagraon Manoke,30.67639,75.46056,1996-05-01,12.59,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,1996-05-01,15.2,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,1996-05-01,13.95,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,1997-01-01,8.1,jan
+Punjab,Ludhiana,Machhiwara Punian,30.87556,76.14361,1997-01-01,3.0,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,1997-01-01,2.6,jan
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,1997-01-01,3.1,jan
+Punjab,Ludhiana,Ludhiana-2 Malakpur,30.92083,75.72222,1997-01-01,10.6,jan
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,1997-01-01,7.9,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,1997-01-01,11.3,jan
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,1997-01-01,8.6,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,1997-01-01,2.1,jan
+Punjab,Ludhiana,Machhiwara Sahlumajra,30.90611,76.25306,1997-01-01,4.8,jan
+Punjab,Ludhiana,Pakhowal Gujjarwal,30.74167,75.74167,1997-01-01,9.0,jan
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,1997-01-01,7.6,jan
+Punjab,Ludhiana,Ludhiana-1 Gill,30.85417,75.85833,1997-01-01,9.8,jan
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,1997-01-01,8.4,jan
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,1997-01-01,8.5,jan
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,1997-01-01,13.1,jan
+Punjab,Ludhiana,Raikot Gobindgarh,30.6,75.5875,1997-01-01,10.2,jan
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,1997-01-01,11.5,jan
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,1997-01-01,12.3,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,1997-01-01,9.9,jan
+Punjab,Ludhiana,Sidhwan Bet Lilan,30.875,75.47917,1997-01-01,7.4,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,1997-01-01,2.6,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,1997-01-01,9.4,jan
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,1997-01-01,10.5,jan
+Punjab,Ludhiana,Jagraon Chowkiman,30.82083,75.60694,1997-01-01,7.5,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,1997-01-01,14.6,jan
+Punjab,Ludhiana,Ludhiana City Mudian Kalan,30.8875,75.925,1997-01-01,10.7,jan
+Punjab,Ludhiana,Dehlon Dehlon,30.75417,75.84167,1997-01-01,7.0,jan
+Punjab,Ludhiana,Jagraon Manoke,30.67639,75.46056,1997-01-01,10.0,jan
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,1997-01-01,10.1,jan
+Punjab,Ludhiana,Jagraon Chowkiman,30.82083,75.60694,1997-05-01,9.64,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,1997-05-01,3.99,pre
+Punjab,Ludhiana,Sidhwan Bet Lilan,30.875,75.47917,1997-05-01,7.75,pre
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,1997-05-01,5.35,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,1997-05-01,10.6,pre
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,1997-05-01,13.9,pre
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,1997-05-01,13.74,pre
+Punjab,Ludhiana,Raikot Gobindgarh,30.6,75.5875,1997-05-01,10.62,pre
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,1997-05-01,14.75,pre
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,1997-05-01,9.9,pre
+Punjab,Ludhiana,Pakhowal Gujjarwal,30.74167,75.74167,1997-05-01,10.65,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,1997-05-01,9.27,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,1997-05-01,10.0,pre
+Punjab,Ludhiana,Machhiwara Jodhwal,30.96611,76.20583,1997-05-01,4.07,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,1997-05-01,11.55,pre
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,1997-05-01,8.49,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,1997-05-01,7.26,pre
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,1997-05-01,11.39,pre
+Punjab,Ludhiana,Khanna Khanna,30.72083,76.20833,1997-05-01,11.47,pre
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,1997-05-01,8.33,pre
+Punjab,Ludhiana,Machhiwara Sahlumajra,30.90611,76.25306,1997-05-01,4.8,pre
+Punjab,Ludhiana,Jagraon Manoke,30.67639,75.46056,1998-01-01,9.7,jan
+Punjab,Ludhiana,Jagraon Chowkiman,30.82083,75.60694,1998-01-01,7.5,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,1998-01-01,2.4,jan
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,1998-01-01,9.8,jan
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,1998-01-01,7.2,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,1998-01-01,9.7,jan
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,1998-01-01,11.8,jan
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,1998-01-01,11.0,jan
+Punjab,Ludhiana,Raikot Gobindgarh,30.6,75.5875,1998-01-01,10.1,jan
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,1998-01-01,12.7,jan
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,1998-01-01,8.3,jan
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,1998-01-01,7.7,jan
+Punjab,Ludhiana,Pakhowal Gujjarwal,30.74167,75.74167,1998-01-01,8.5,jan
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,1998-01-01,7.3,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,1998-01-01,9.4,jan
+Punjab,Ludhiana,Sidhwan Bet Lilan,30.875,75.47917,1998-01-01,7.2,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,1998-01-01,8.9,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,1998-01-01,14.4,jan
+Punjab,Ludhiana,Ludhiana City Mudian Kalan,30.8875,75.925,1998-01-01,10.0,jan
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,1998-01-01,10.5,jan
+Punjab,Ludhiana,Machhiwara Sahlumajra,30.90611,76.25306,1998-01-01,4.6,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,1998-01-01,8.7,jan
+Punjab,Ludhiana,Ludhiana-1 Gill,30.85417,75.85833,1998-01-01,9.3,jan
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,1998-01-01,2.5,jan
+Punjab,Ludhiana,Ludhiana-2 Malakpur,30.92083,75.72222,1998-01-01,10.5,jan
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,1998-01-01,6.6,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,1998-01-01,11.1,jan
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,1998-01-01,8.1,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,1998-01-01,2.3,jan
+Punjab,Ludhiana,Jagraon Chowkiman,30.82083,75.60694,1998-05-01,9.16,pre
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,1998-05-01,7.21,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,1998-05-01,3.04,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,1998-05-01,2.7,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,1998-05-01,10.0,pre
+Punjab,Ludhiana,Ludhiana-1 Gill,30.85417,75.85833,1998-05-01,12.35,pre
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,1998-05-01,11.56,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,1998-05-01,16.58,pre
+Punjab,Ludhiana,Khanna Khanna,30.72083,76.20833,1998-05-01,11.68,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,1998-05-01,8.62,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,1998-05-01,9.03,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,1998-05-01,9.12,pre
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,1998-05-01,14.81,pre
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,1998-05-01,8.09,pre
+Punjab,Ludhiana,Pakhowal Gujjarwal,30.74167,75.74167,1998-05-01,10.63,pre
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,1998-05-01,9.81,pre
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,1998-05-01,9.85,pre
+Punjab,Ludhiana,Raikot Gobindgarh,30.6,75.5875,1998-05-01,10.65,pre
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,1998-05-01,13.62,pre
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,1998-05-01,13.72,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,1998-05-01,10.31,pre
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,1998-05-01,4.66,pre
+Punjab,Ludhiana,Sidhwan Bet Lilan,30.875,75.47917,1998-05-01,9.6,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,1998-05-01,3.29,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,1998-05-01,9.79,pre
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,1998-05-01,8.11,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,1998-05-01,11.02,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,1999-01-01,2.0,jan
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,1999-01-01,13.7,jan
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,1999-01-01,9.5,jan
+Punjab,Ludhiana,Pakhowal Gujjarwal,30.74167,75.74167,1999-01-01,9.4,jan
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,1999-01-01,8.3,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,1999-01-01,8.3,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,1999-01-01,7.8,jan
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,1999-01-01,7.8,jan
+Punjab,Ludhiana,Machhiwara Jodhwal,30.96611,76.20583,1999-01-01,1.7,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,1999-01-01,12.3,jan
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,1999-01-01,6.3,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,1999-01-01,7.6,jan
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,1999-01-01,9.1,jan
+Punjab,Ludhiana,Ludhiana City Mudian Kalan,30.8875,75.925,1999-01-01,13.1,jan
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,1999-01-01,10.8,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,1999-01-01,8.6,jan
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,1999-01-01,12.3,jan
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,1999-01-01,4.0,jan
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,1999-01-01,11.7,jan
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,1999-01-01,7.0,jan
+Punjab,Ludhiana,Jagraon Chowkiman,30.82083,75.60694,1999-01-01,8.1,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,1999-01-01,9.2,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,1999-01-01,16.0,jan
+Punjab,Ludhiana,Dehlon Dehlon,30.75417,75.84167,1999-01-01,7.0,jan
+Punjab,Ludhiana,Khanna Khanna,30.72083,76.20833,1999-05-01,10.96,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,1999-05-01,8.84,pre
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,1999-05-01,11.21,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,1999-05-01,8.15,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,1999-05-01,6.98,pre
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,1999-05-01,7.01,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,1999-05-01,13.01,pre
+Punjab,Ludhiana,Machhiwara Jodhwal,30.96611,76.20583,1999-05-01,2.93,pre
+Punjab,Ludhiana,Pakhowal Gujjarwal,30.74167,75.74167,1999-05-01,0.95,pre
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,1999-05-01,12.77,pre
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,1999-05-01,10.29,pre
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,1999-05-01,13.73,pre
+Punjab,Ludhiana,Raikot Gobindgarh,30.6,75.5875,1999-05-01,9.77,pre
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,1999-05-01,12.47,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,1999-05-01,9.65,pre
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,1999-05-01,4.93,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,1999-05-01,3.25,pre
+Punjab,Ludhiana,Jagraon Chowkiman,30.82083,75.60694,1999-05-01,8.5,pre
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,1999-05-01,9.75,pre
+Punjab,Ludhiana,Dehlon Dehlon,30.75417,75.84167,1999-05-01,7.61,pre
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,1999-05-01,7.98,pre
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,2000-01-01,6.9,jan
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,2000-01-01,12.3,jan
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,2000-01-01,13.4,jan
+Punjab,Ludhiana,Raikot Gobindgarh,30.6,75.5875,2000-01-01,10.8,jan
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,2000-01-01,14.8,jan
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,2000-01-01,9.2,jan
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,2000-01-01,10.6,jan
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,2000-01-01,7.8,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2000-01-01,9.4,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2000-01-01,5.5,jan
+Punjab,Ludhiana,Machhiwara Jodhwal,30.96611,76.20583,2000-01-01,3.1,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,2000-01-01,10.4,jan
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,2000-01-01,3.0,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2000-01-01,7.8,jan
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,2000-01-01,11.7,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2000-01-01,13.1,jan
+Punjab,Ludhiana,Jagraon Chowkiman,30.82083,75.60694,2000-01-01,8.8,jan
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,2000-01-01,8.5,jan
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,2000-01-01,5.0,jan
+Punjab,Ludhiana,Sidhwan Bet Lilan,30.875,75.47917,2000-01-01,7.4,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,2000-01-01,3.3,jan
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,2000-01-01,7.3,jan
+Punjab,Ludhiana,Dehlon Dehlon,30.75417,75.84167,2000-01-01,5.4,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2000-05-01,13.27,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2000-05-20,10.0,pre
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,2000-05-20,8.17,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2000-05-20,8.88,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2000-05-20,2.76,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,2000-05-20,3.45,pre
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,2000-05-20,8.02,pre
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,2000-05-20,4.7,pre
+Punjab,Ludhiana,Machhiwara Jodhwal,30.96611,76.20583,2000-05-20,3.72,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,2000-05-20,3.99,pre
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,2000-05-20,8.2,pre
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,2000-05-20,11.1,pre
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,2000-05-20,14.6,pre
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,2000-05-20,14.04,pre
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,2000-05-20,13.92,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,2000-05-20,8.67,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2000-05-20,9.55,pre
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,2000-05-20,12.44,pre
+Punjab,Ludhiana,Maloud Sahaora,30.65306,76.00778,2001-01-01,8.5,jan
+Punjab,Ludhiana,Pakhowal Raikot,30.65556,75.6,2001-01-01,15.9,jan
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,2001-01-01,11.7,jan
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,2001-01-01,12.1,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2001-01-01,8.7,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2001-01-01,9.0,jan
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,2001-01-01,8.6,jan
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,2001-01-01,14.5,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,2001-01-01,13.3,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2001-01-01,8.8,jan
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,2001-01-01,12.8,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2001-01-01,17.5,jan
+Punjab,Ludhiana,Khanna Khanna,30.72083,76.20833,2001-01-01,11.1,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2001-01-01,10.4,jan
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,2001-01-01,7.8,jan
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,2001-01-01,7.5,jan
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,2001-01-01,12.7,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2001-01-01,9.8,jan
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,2001-01-01,5.5,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.9375,75.4625,2001-01-01,3.9,jan
+Punjab,Ludhiana,Dehlon Dehlon,30.75417,75.84167,2001-01-01,8.9,jan
+Punjab,Ludhiana,Samrala Seh,30.7636111,76.23888889,2001-05-20,10.42,pre
+Punjab,Ludhiana,Raikot Kamalpur,30.7083333,75.525,2001-05-20,15.14,pre
+Punjab,Ludhiana,Pakhowal Raikot,30.6555556,75.6,2001-05-20,14.77,pre
+Punjab,Ludhiana,Pakhowal Mansuran,30.8083333,75.75833333,2001-05-20,9.85,pre
+Punjab,Ludhiana,Maloud Sahaora,30.6530556,76.00777778,2001-05-20,9.4,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.8661111,76.23138889,2001-05-20,10.2,pre
+Punjab,Ludhiana,Machhiwara Jodhwal,30.9661111,76.20583333,2001-05-20,6.92,pre
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.8888889,76.06805556,2001-05-20,6.52,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.9569444,76.05833333,2001-05-20,3.6,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.8666667,76.0,2001-05-20,9.93,pre
+Punjab,Ludhiana,Khanna Khanna,30.7208333,76.20833333,2001-05-20,12.87,pre
+Punjab,Ludhiana,Doraha Kadon,30.7666667,76.04166667,2001-05-20,8.47,pre
+Punjab,Ludhiana,Dehlon Dehlon,30.7541667,75.84166667,2001-05-20,6.85,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20416667,2001-05-20,7.87,pre
+Punjab,Ludhiana,Samrala Utlan,30.8194444,76.19666667,2001-05-20,12.55,pre
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.9402778,75.58888889,2001-05-20,6.4,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,2002-01-01,2.9,jan
+Punjab,Ludhiana,Khanna Khanna,30.72083,76.20833,2002-01-01,11.9,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2002-01-01,9.0,jan
+Punjab,Ludhiana,Ludhiana-2 Pratapgarh,30.88889,76.06806,2002-01-01,7.0,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,2002-01-01,10.8,jan
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,2002-01-01,9.6,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2002-01-01,9.3,jan
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,2002-01-01,12.7,jan
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,2002-01-01,11.7,jan
+Punjab,Ludhiana,Raikot Kamalpur,30.70833,75.525,2002-01-01,15.6,jan
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,2002-01-01,8.4,jan
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,2002-01-01,13.4,jan
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,2002-01-01,7.9,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2002-01-01,14.1,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2002-05-20,18.07,pre
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,2002-05-20,9.3,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2002-05-20,8.33,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,2002-05-20,11.7,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.9125,76.20417,2002-05-20,7.78,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2002-05-20,10.4,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2002-05-20,9.74,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2002-05-20,7.32,pre
+Punjab,Ludhiana,Pakhowal Kalak,30.71667,75.78472,2002-05-20,12.7,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2002-05-20,11.0,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2002-05-20,9.88,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.95694,76.05833,2002-05-20,2.75,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2003-01-01,10.9,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2003-01-01,10.2,jan
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,2003-01-01,14.6,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2003-01-01,9.9,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2003-01-01,10.3,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.26667,2003-01-01,11.9,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2003-01-01,7.5,jan
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,2003-01-01,10.2,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2003-01-01,12.0,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2003-01-01,19.9,jan
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,2003-05-20,15.72,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2003-05-20,11.35,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2003-05-20,11.43,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2003-05-20,20.97,pre
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,2003-05-20,10.27,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2003-05-20,12.05,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2004-01-01,7.8,jan
+Punjab,Ludhiana,Samrala Seh,30.76361,76.23889,2004-01-01,15.0,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2004-01-01,9.9,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2004-01-01,10.8,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2004-01-01,10.9,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2004-01-01,21.0,jan
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,2004-01-01,10.8,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2004-01-01,11.8,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2004-05-20,11.85,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2004-05-20,9.22,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2004-05-20,12.06,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2004-05-20,11.5,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2004-05-20,12.9,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2004-05-20,22.09,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2004-05-20,13.0,pre
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,2004-05-20,10.42,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2005-01-01,8.1,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2005-01-01,10.8,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2005-01-01,3.8,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2005-01-01,12.2,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2005-01-01,22.9,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2005-01-01,11.5,jan
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2005-01-01,30.2,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2005-01-01,13.5,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2005-01-01,9.4,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2005-01-01,12.5,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2005-05-02,8.02,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2005-05-02,11.66,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2005-05-20,3.89,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2005-05-20,11.47,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2005-05-20,12.58,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2005-05-20,23.79,pre
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2005-05-20,30.25,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2005-05-20,13.58,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2005-05-20,9.88,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2005-05-20,11.58,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2006-01-01,13.8,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2006-01-01,10.6,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2006-01-01,13.0,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2006-01-01,12.8,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2006-01-01,8.2,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2006-01-01,11.5,jan
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2006-01-01,31.5,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2006-01-01,11.5,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2006-01-01,3.6,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2006-05-02,8.64,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2006-05-20,14.18,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2006-05-20,25.48,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2006-05-20,13.18,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2006-05-20,12.42,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2006-05-20,12.32,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2006-05-20,13.43,pre
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2007-01-01,33.0,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2007-01-01,14.5,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2007-01-01,5.0,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2007-01-01,12.8,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2007-01-01,9.4,jan
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2007-01-01,13.6,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2007-01-01,11.6,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2007-01-01,14.9,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2007-01-01,21.8,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2007-01-01,12.0,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2007-05-02,9.27,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2007-05-20,12.87,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2007-05-20,13.17,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2007-05-20,4.84,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2007-05-20,27.69,pre
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2007-05-20,33.56,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2007-05-20,11.92,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2008-01-01,12.5,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2008-01-01,9.3,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2008-01-01,28.0,jan
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2008-01-01,34.8,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2008-01-01,15.2,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2008-01-01,12.8,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2008-01-01,13.2,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2008-01-01,5.2,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2008-05-20,12.84,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2008-05-20,12.41,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2008-05-20,9.9,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2008-05-20,12.9,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2009-01-01,10.9,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2009-01-01,12.0,jan
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2009-01-01,9.6,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2009-01-01,12.0,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2009-01-01,4.0,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2009-01-01,12.2,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2009-01-01,8.5,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2009-01-01,27.1,jan
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2009-01-01,34.9,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2009-01-01,16.1,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2009-01-01,8.9,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2009-01-01,12.7,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2009-05-20,13.08,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2009-05-20,12.58,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2009-05-20,29.92,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2009-05-20,12.1,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2009-05-20,12.94,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2009-05-20,6.36,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2009-05-20,13.77,pre
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2009-05-20,35.59,pre
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2009-05-20,10.37,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2009-05-20,9.82,pre
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2009-05-20,9.62,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2009-05-20,15.87,pre
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2010-01-01,8.9,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2010-01-01,15.0,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2010-01-01,13.3,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2010-01-01,3.8,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2010-01-01,12.2,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2010-01-01,11.4,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2010-01-01,11.9,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2010-01-01,8.8,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2010-01-01,27.5,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2010-01-01,16.6,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2010-01-01,10.9,jan
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2010-01-01,9.7,jan
+Punjab,Ludhiana,Jagraon Kaonke Kalan,30.7625,75.42083,2010-05-20,21.85,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2010-05-20,19.38,pre
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,2010-05-20,11.43,pre
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2010-05-20,9.44,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2010-05-20,17.51,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2010-05-20,12.31,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2010-05-20,18.18,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.91667,76.2,2010-05-20,9.79,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2010-05-20,12.6,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2010-05-20,8.66,pre
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2010-05-20,9.85,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2010-05-20,9.64,pre
+Punjab,Ludhiana,Ludhiana-1 Kohara,30.86667,76.0,2010-05-20,15.0,pre
+Punjab,Ludhiana,Ludhiana City Tandari Kallon,30.90833,75.85833,2010-05-20,33.27,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2010-05-20,30.45,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2010-05-20,21.0,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2010-05-20,4.2,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2010-05-20,12.22,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2010-05-20,15.25,pre
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,2010-05-20,18.76,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2010-05-20,21.42,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2010-05-20,13.69,pre
+Punjab,Ludhiana,Raikot Bassian,30.65778,75.53889,2010-05-20,22.25,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2010-05-20,22.64,pre
+Punjab,Ludhiana,Samrala Mehduda,30.81167,76.08056,2010-05-20,12.3,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2010-05-20,14.7,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2010-05-20,13.16,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2011-01-01,21.6,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2011-01-01,17.3,jan
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2011-01-01,17.2,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2011-01-01,13.7,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2011-01-01,28.5,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2011-01-01,20.3,jan
+Punjab,Ludhiana,Ludhiana City Tandari Kallon,30.90833,75.85833,2011-01-01,33.3,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2011-01-01,8.7,jan
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2011-01-01,9.5,jan
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2011-01-01,8.1,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2011-01-01,12.2,jan
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,2011-01-01,18.9,jan
+Punjab,Ludhiana,Jagraon Kaonke Kalan,30.7625,75.42083,2011-01-01,20.9,jan
+Punjab,Ludhiana,Machhiwara Machhiwara,30.91667,76.2,2011-01-01,9.4,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2011-01-01,11.8,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2011-01-01,4.4,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2011-01-01,11.2,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2011-01-01,14.4,jan
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2011-01-01,21.8,jan
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2011-01-01,18.1,jan
+Punjab,Ludhiana,Samrala Mehduda,30.81167,76.08056,2011-01-01,12.1,jan
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2011-01-01,22.8,jan
+Punjab,Ludhiana,Raikot Bassian,30.65778,75.53889,2011-01-01,22.9,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2011-01-01,11.0,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2011-01-01,8.8,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2011-05-20,8.88,pre
+Punjab,Ludhiana,Samrala Mehduda,30.81167,76.08056,2011-05-20,12.3,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2011-05-20,17.11,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2011-05-20,22.9,pre
+Punjab,Ludhiana,Raikot Bassian,30.65778,75.53889,2011-05-20,23.18,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2011-05-20,21.72,pre
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,2011-05-20,19.1,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2011-05-20,15.62,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2011-05-20,12.58,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2011-05-20,4.32,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2011-05-20,12.54,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2011-05-20,14.7,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2011-05-20,12.15,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2011-05-20,12.46,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2011-05-20,8.32,pre
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2011-05-20,9.76,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2011-05-20,9.22,pre
+Punjab,Ludhiana,Ludhiana City Tandari Kallon,30.90833,75.85833,2011-05-20,33.45,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2011-05-20,20.56,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2011-05-20,31.22,pre
+Punjab,Ludhiana,Jagraon Kaonke Kalan,30.7625,75.42083,2011-05-20,20.9,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.91667,76.2,2011-05-20,9.65,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2011-05-20,18.26,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2011-05-20,13.99,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2011-05-20,17.1,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2011-05-20,21.85,pre
+Punjab,Ludhiana,Ludhiana City Tandari Kallon,30.90833,75.85833,2012-01-01,33.2,jan
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2012-01-01,21.8,jan
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2012-01-01,18.2,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2012-01-01,6.5,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2012-01-01,13.4,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2012-01-01,26.9,jan
+Punjab,Ludhiana,Samrala Mehduda,30.81167,76.08056,2012-01-01,12.1,jan
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2012-01-01,22.9,jan
+Punjab,Ludhiana,Raikot Bassian,30.65833,75.5375,2012-01-01,6.7,jan
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2012-01-01,21.5,jan
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,2012-01-01,19.0,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2012-01-01,11.9,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2012-01-01,3.0,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2012-01-01,12.2,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2012-01-01,10.4,jan
+Punjab,Ludhiana,Machhiwara Machhiwara,30.91667,76.2,2012-01-01,9.5,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2012-01-01,11.7,jan
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2012-01-01,8.3,jan
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2012-01-01,9.1,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2012-01-01,8.6,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2012-01-01,11.9,jan
+Punjab,Ludhiana,Raikot Bassian,30.65778,75.53889,2012-01-01,23.3,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2012-01-01,22.9,jan
+Punjab,Ludhiana,Jagraon Kaonke Kalan,30.7625,75.42083,2012-01-01,21.5,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2012-01-01,17.6,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2012-01-01,8.8,jan
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2012-01-01,17.1,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2012-01-01,14.0,jan
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2012-01-01,5.9,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2012-01-01,18.0,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2012-05-20,9.02,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2012-05-20,9.39,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2012-05-20,8.24,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2012-05-20,12.48,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2012-05-20,11.5,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2012-05-20,12.19,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2012-05-20,3.34,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2012-05-20,12.28,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2012-05-20,13.7,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2012-05-20,21.47,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2012-05-20,22.65,pre
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,2012-05-20,9.02,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2012-05-20,8.1,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2012-05-20,18.28,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2012-05-20,21.56,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2012-05-20,12.6,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2012-05-20,25.47,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2012-05-20,17.18,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2012-05-20,17.35,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2012-05-20,13.88,pre
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2012-05-20,4.55,pre
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2012-05-20,18.7,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2013-01-01,8.1,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2013-01-01,12.5,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2013-01-01,13.3,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2013-01-01,4.0,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2013-01-01,14.1,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2013-01-01,11.9,jan
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2013-01-01,10.1,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2013-01-01,9.3,jan
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,2013-01-01,9.9,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2013-01-01,28.9,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2013-01-01,19.9,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2013-01-01,9.9,jan
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2013-01-01,6.8,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2013-01-01,12.5,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2013-01-01,15.3,jan
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2013-05-20,40.01,pre
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2013-05-20,20.17,pre
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,2013-05-20,11.08,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2013-05-20,18.55,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2013-05-20,13.9,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2013-05-20,11.65,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2013-05-20,13.59,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2013-05-20,22.1,pre
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2013-05-20,9.78,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2013-05-20,17.85,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2013-05-20,15.19,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2013-05-20,13.55,pre
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2013-05-20,7.07,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2013-05-20,4.01,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2013-05-20,13.53,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2013-05-20,12.73,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2013-05-20,13.23,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2013-05-20,8.88,pre
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2013-05-20,9.82,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2013-05-20,9.92,pre
+Punjab,Ludhiana,Ludhiana-1 Badowal,30.8625,75.75,2013-05-20,9.78,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2013-05-20,20.87,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2013-05-20,25.23,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2013-05-20,22.8,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2013-05-20,21.24,pre
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2014-01-01,10.0,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2014-01-01,6.1,jan
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2014-01-01,6.7,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2014-01-01,15.8,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2014-01-01,11.7,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2014-01-01,9.8,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2014-01-01,12.4,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2014-01-01,15.4,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2014-01-01,3.9,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2014-01-01,15.9,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2014-01-01,11.9,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2014-01-01,12.1,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2014-01-01,9.3,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2014-01-01,24.8,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2014-01-01,20.1,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2014-05-02,20.57,pre
+Punjab,Ludhiana,Doraha Kadon,30.76667,76.04167,2014-05-02,10.32,pre
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2014-05-02,7.28,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2014-05-02,12.93,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2014-05-02,15.93,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2014-05-02,13.82,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2014-05-02,8.01,pre
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2014-05-02,40.42,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2014-05-02,15.73,pre
+Punjab,Ludhiana,Pakhowal Chaminala,30.77944,75.73722,2014-05-20,19.55,pre
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2014-05-20,20.15,pre
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2014-05-20,22.9,pre
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2014-05-20,14.56,pre
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2014-05-20,3.38,pre
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.93611,76.30417,2014-05-20,3.82,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2014-05-20,3.71,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2014-05-20,12.56,pre
+Punjab,Ludhiana,Machhiwara Lelon Kalan,30.85278,76.12083,2014-05-20,4.68,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2014-05-20,17.29,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2014-05-20,5.68,pre
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2014-05-20,11.74,pre
+Punjab,Ludhiana,Pakhowal Mehma,30.74806,75.785,2014-05-20,18.51,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2014-05-20,24.65,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2014-05-20,23.21,pre
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2014-05-20,19.87,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2014-05-20,22.28,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2014-05-20,19.49,pre
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2014-05-20,20.83,pre
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2014-05-20,15.98,pre
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2014-05-20,9.6,pre
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2014-05-20,19.12,pre
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2014-05-20,18.51,pre
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2014-05-20,6.57,pre
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2014-05-20,18.07,pre
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2014-05-20,17.92,pre
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2014-05-20,14.38,pre
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2014-05-20,19.9,pre
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2014-05-20,23.4,pre
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2014-05-20,24.43,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2014-05-20,8.82,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2014-05-20,11.38,pre
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2014-05-20,10.28,pre
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2014-05-20,5.88,pre
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2014-05-20,15.3,pre
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2014-05-20,8.05,pre
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2014-05-20,6.8,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2014-05-20,9.79,pre
+Punjab,Ludhiana,Jagraon Manoke,30.67972,75.45889,2014-05-20,23.75,pre
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2014-05-20,15.85,pre
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2014-05-20,18.16,pre
+Punjab,Ludhiana,Jagraon Ragba,30.83222,75.64056,2014-05-20,17.0,pre
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2014-05-20,9.73,pre
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2014-05-20,20.03,pre
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2014-05-20,20.67,pre
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2014-05-20,17.7,pre
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2014-05-20,19.5,pre
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2014-05-20,26.5,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2014-05-20,25.59,pre
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2014-05-20,18.21,pre
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2014-05-20,20.51,pre
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2014-05-20,9.15,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2014-05-20,9.57,pre
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2014-05-20,17.52,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2014-05-20,17.53,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2015-01-01,25.0,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2015-01-01,13.1,jan
+Punjab,Ludhiana,Pakhowal Chaminala,30.77944,75.73722,2015-01-01,19.9,jan
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2015-01-01,26.8,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2015-01-01,16.4,jan
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2015-01-01,26.3,jan
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2015-01-01,8.2,jan
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2015-01-01,20.8,jan
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2015-01-01,15.3,jan
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2015-01-01,19.3,jan
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2015-01-01,20.3,jan
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2015-01-01,22.0,jan
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2015-01-01,22.1,jan
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2015-01-01,10.0,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2015-01-01,7.4,jan
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2015-01-01,17.1,jan
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2015-01-01,22.3,jan
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2015-01-01,20.3,jan
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2015-01-01,24.1,jan
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2015-01-01,21.6,jan
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2015-01-01,24.7,jan
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2015-01-01,25.0,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2015-01-01,17.5,jan
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2015-01-01,4.2,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2015-01-01,13.5,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2015-01-01,12.3,jan
+Punjab,Ludhiana,Machhiwara Lelon Kalan,30.85278,76.12083,2015-01-01,5.1,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2015-01-01,18.7,jan
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2015-01-01,7.1,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2015-01-01,12.4,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2015-01-01,10.1,jan
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2015-01-01,10.0,jan
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2015-01-01,11.5,jan
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2015-01-01,7.4,jan
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2015-01-01,15.5,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2015-01-01,10.8,jan
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2015-01-01,9.0,jan
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2015-01-01,6.2,jan
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2015-01-01,10.6,jan
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2015-01-01,12.9,jan
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2015-01-01,9.0,jan
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2015-01-01,16.1,jan
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.93611,76.30417,2015-01-01,4.4,jan
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2015-01-01,18.2,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2015-01-01,25.9,jan
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2015-01-01,27.8,jan
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2015-01-01,21.2,jan
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2015-01-01,19.0,jan
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2015-01-01,7.5,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2015-01-01,21.3,jan
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2015-01-01,21.9,jan
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2015-01-01,22.3,jan
+Punjab,Ludhiana,Jagraon Ragba,30.83222,75.64056,2015-01-01,18.2,jan
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2015-01-01,19.2,jan
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2015-01-01,15.4,jan
+Punjab,Ludhiana,Jagraon Manoke,30.67972,75.45889,2015-01-01,25.9,jan
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2015-01-01,19.5,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2015-01-01,4.1,jan
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2015-01-01,20.9,jan
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2015-01-01,18.8,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2015-05-20,9.6,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2015-05-20,11.72,pre
+Punjab,Ludhiana,Machhiwara Lelon Kalan,30.85278,76.12083,2015-05-20,5.18,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2015-05-20,18.8,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2015-05-20,11.76,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2015-05-20,9.88,pre
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2015-05-20,10.23,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2015-05-20,11.77,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2015-05-20,7.72,pre
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2015-05-20,16.12,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2015-05-20,7.77,pre
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2015-05-20,9.4,pre
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2015-05-20,21.75,pre
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2015-05-20,19.5,pre
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2015-05-20,21.87,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2015-05-20,26.45,pre
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2015-05-20,28.8,pre
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2015-05-20,21.96,pre
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2015-05-20,20.4,pre
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2015-05-20,20.8,pre
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2015-05-20,20.4,pre
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2015-05-20,23.15,pre
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2015-05-20,22.5,pre
+Punjab,Ludhiana,Jagraon Ragba,30.83222,75.64056,2015-05-20,19.5,pre
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2015-05-20,20.16,pre
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2015-05-20,17.0,pre
+Punjab,Ludhiana,Jagraon Manoke,30.67972,75.45889,2015-05-20,25.9,pre
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2015-05-20,16.6,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2015-05-20,24.2,pre
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.93611,76.30417,2015-05-20,4.33,pre
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2015-05-20,4.12,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2015-05-20,3.58,pre
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2015-05-20,25.3,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2015-05-20,20.5,pre
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2015-05-20,22.87,pre
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2015-05-20,17.76,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2015-05-20,8.62,pre
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2015-05-20,11.1,pre
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2015-05-20,21.79,pre
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2015-05-20,8.05,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2015-05-20,11.12,pre
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2015-05-20,20.62,pre
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2015-05-20,19.25,pre
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2015-05-20,15.38,pre
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2015-05-20,21.7,pre
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2015-05-20,14.1,pre
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2015-05-20,8.43,pre
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2015-05-20,26.2,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2015-05-20,27.1,pre
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2015-05-20,22.6,pre
+Punjab,Ludhiana,Pakhowal Chaminala,30.77944,75.73722,2015-05-20,21.3,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2015-05-20,17.76,pre
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2015-05-20,26.4,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2015-05-20,18.48,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2015-05-20,16.5,pre
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2015-05-20,8.8,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2015-05-20,13.33,pre
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2015-05-20,9.35,pre
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2015-05-20,20.3,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2015-05-20,25.25,pre
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2015-05-20,6.75,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2016-01-01,8.0,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2016-01-01,12.5,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2016-01-01,13.6,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2016-01-01,3.6,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2016-01-01,13.4,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2016-01-01,11.8,jan
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2016-01-01,9.5,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2016-01-01,5.8,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2016-01-01,21.7,jan
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2016-01-01,6.8,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2016-01-01,17.2,jan
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2016-01-01,37.7,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2016-01-01,9.6,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2016-01-01,21.2,jan
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2016-01-20,18.2,jan
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2016-01-20,22.7,jan
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2016-01-20,21.3,jan
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2016-01-20,24.8,jan
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2016-01-20,22.8,jan
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2016-01-20,21.0,jan
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2016-01-20,19.6,jan
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2016-01-20,20.2,jan
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2016-01-20,23.9,jan
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2016-01-20,11.2,jan
+Punjab,Ludhiana,Jagraon Ragba,30.83222,75.64056,2016-01-20,19.3,jan
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2016-01-20,20.1,jan
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2016-01-20,17.2,jan
+Punjab,Ludhiana,Jagraon Manoke,30.67972,75.45889,2016-01-20,27.8,jan
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2016-01-20,17.0,jan
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2016-01-20,8.0,jan
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2016-01-20,9.3,jan
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2016-01-20,18.0,jan
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2016-01-20,22.3,jan
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2016-01-20,11.3,jan
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2016-01-20,9.5,jan
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2016-01-20,18.9,jan
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2016-01-20,6.4,jan
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2016-01-20,6.2,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2016-01-20,18.9,jan
+Punjab,Ludhiana,Machhiwara Lelon Kalan,30.85278,76.12083,2016-01-20,4.7,jan
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2016-01-20,16.1,jan
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2016-01-20,8.9,jan
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2016-01-20,21.7,jan
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.93611,76.30417,2016-01-20,4.0,jan
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2016-01-20,4.1,jan
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2016-01-20,13.1,jan
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2016-01-20,26.5,jan
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2016-01-20,8.3,jan
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2016-01-20,22.2,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2016-01-20,16.6,jan
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2016-01-20,18.6,jan
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2016-01-20,20.5,jan
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2016-01-20,26.5,jan
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2016-01-20,28.1,jan
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2016-01-20,27.8,jan
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2016-01-20,26.7,jan
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2016-01-20,28.9,jan
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2016-01-20,22.2,jan
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2016-01-20,14.7,jan
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2016-01-20,19.7,jan
+Punjab,Ludhiana,Pakhowal Chaminala,30.77944,75.73722,2016-01-20,21.1,jan
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2016-01-20,23.0,jan
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2016-05-01,22.0,pre
+Punjab,Ludhiana,Pakhowal Chaminala,30.77944,75.73722,2016-05-01,21.35,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2016-05-01,18.73,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2016-05-01,17.85,pre
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2016-05-01,5.8,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2016-05-01,9.05,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2016-05-01,11.0,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2016-05-01,5.65,pre
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2016-05-01,16.3,pre
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2016-05-01,9.3,pre
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2016-05-01,22.2,pre
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2016-05-01,19.25,pre
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2016-05-01,29.25,pre
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2016-05-01,21.2,pre
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2016-05-01,20.1,pre
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2016-05-01,20.0,pre
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2016-05-01,23.2,pre
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2016-05-01,25.3,pre
+Punjab,Ludhiana,Jagraon Ragba,30.83222,75.64056,2016-05-01,19.87,pre
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2016-05-01,21.0,pre
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2016-05-01,17.65,pre
+Punjab,Ludhiana,Jagraon Manoke,30.67972,75.45889,2016-05-01,27.08,pre
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2016-05-01,17.11,pre
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2016-05-01,8.6,pre
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2016-05-01,9.45,pre
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.93611,76.30417,2016-05-01,4.85,pre
+Punjab,Ludhiana,Machhiwara Lelon Kalan,30.85278,76.12083,2016-05-01,5.0,pre
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2016-05-01,8.45,pre
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2016-05-01,18.8,pre
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2016-05-01,24.01,pre
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2016-05-01,27.45,pre
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2016-05-01,4.65,pre
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2016-05-01,27.5,pre
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2016-05-01,22.97,pre
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2016-05-01,11.3,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2016-05-01,27.8,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2016-05-01,26.03,pre
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2016-05-01,18.7,pre
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2016-05-01,22.9,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2016-05-01,21.34,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2016-05-01,25.08,pre
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2016-05-01,22.77,pre
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2016-05-01,25.4,pre
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2016-05-01,14.13,pre
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2016-05-01,20.32,pre
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2016-05-01,14.25,pre
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2016-05-01,20.05,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2016-05-20,22.0,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2016-05-20,13.85,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2016-05-20,3.79,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2016-05-20,13.2,pre
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2016-05-20,38.79,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2016-05-20,32.47,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2016-05-20,7.35,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2016-05-20,9.92,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2016-05-20,12.92,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2016-05-20,12.98,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2016-05-20,14.55,pre
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2016-05-20,21.77,pre
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2016-05-20,9.72,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2016-05-20,16.79,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2016-05-20,16.93,pre
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2016-05-20,7.07,pre
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2017-01-01,10.4,jan
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2017-01-01,12.2,jan
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2017-01-01,6.0,jan
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2017-01-01,16.5,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2017-01-01,9.9,jan
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2017-01-01,9.5,jan
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2017-01-01,7.3,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2017-01-01,18.4,jan
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2017-01-01,18.6,jan
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2017-01-01,9.9,jan
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2017-01-01,9.3,jan
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2017-01-01,17.5,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2017-01-01,21.5,jan
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2017-01-01,25.9,jan
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2017-01-01,18.9,jan
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2017-01-01,20.8,jan
+Punjab,Ludhiana,Jagraon Ragba,30.83222,75.64056,2017-01-01,20.1,jan
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2017-01-01,26.0,jan
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2017-01-01,23.4,jan
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2017-01-01,21.5,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2017-01-01,22.2,jan
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2017-01-01,20.4,jan
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2017-01-01,22.6,jan
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2017-01-01,39.7,jan
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2017-01-01,29.5,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2017-01-01,27.7,jan
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2017-01-01,8.8,jan
+Punjab,Ludhiana,Jagraon Manoke,30.67972,75.45889,2017-01-01,29.7,jan
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2017-01-01,6.3,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2017-01-01,18.1,jan
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2017-01-01,24.0,jan
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2017-01-01,19.3,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2017-01-01,8.7,jan
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2017-01-01,11.9,jan
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2017-01-01,23.9,jan
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2017-01-01,9.1,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2017-01-01,12.0,jan
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2017-01-01,19.8,jan
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2017-01-01,14.9,jan
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2017-01-01,24.1,jan
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2017-01-01,28.0,jan
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2017-01-01,28.5,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2017-01-01,12.6,jan
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2017-01-01,29.2,jan
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2017-01-01,21.6,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2017-01-01,14.0,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2017-01-01,17.1,jan
+Punjab,Ludhiana,Pakhowal Chaminala,30.77944,75.73722,2017-01-01,22.1,jan
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2017-01-01,23.4,jan
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2017-01-01,27.4,jan
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2017-01-01,13.9,jan
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2017-01-01,4.9,jan
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.93611,76.30417,2017-01-01,5.4,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2017-01-01,4.3,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2017-01-01,12.5,jan
+Punjab,Ludhiana,Machhiwara Lelon Kalan,30.85278,76.12083,2017-01-01,5.5,jan
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2017-01-01,27.0,jan
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2017-01-01,22.1,jan
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2017-01-01,22.0,jan
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2017-01-01,19.4,jan
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2017-01-01,24.1,jan
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2017-05-20,7.53,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2017-05-20,9.0,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2017-05-20,12.0,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2017-05-20,5.95,pre
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2017-05-20,16.85,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2017-05-20,11.17,pre
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2017-05-20,9.85,pre
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2017-05-20,23.15,pre
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2017-05-20,19.55,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2017-05-20,28.69,pre
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2017-05-20,29.8,pre
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2017-05-20,39.98,pre
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2017-05-20,22.1,pre
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2017-05-20,20.5,pre
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2017-05-20,22.75,pre
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2017-05-20,21.65,pre
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2017-05-20,23.89,pre
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2017-05-20,26.3,pre
+Punjab,Ludhiana,Jagraon Ragba,30.83222,75.64056,2017-05-20,20.28,pre
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2017-05-20,21.2,pre
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2017-05-20,18.4,pre
+Punjab,Ludhiana,Jagraon Manoke,30.67972,75.45889,2017-05-20,29.1,pre
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2017-05-20,17.75,pre
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2017-05-20,9.25,pre
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2017-05-20,10.05,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2017-05-20,19.28,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2017-05-20,13.25,pre
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2017-05-20,6.3,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2017-05-20,18.66,pre
+Punjab,Ludhiana,Machhiwara Lelon Kalan,30.85278,76.12083,2017-05-20,5.45,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2017-05-20,18.4,pre
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2017-05-20,26.6,pre
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2017-05-20,23.2,pre
+Punjab,Ludhiana,Pakhowal Chaminala,30.77944,75.73722,2017-05-20,22.1,pre
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2017-05-20,21.6,pre
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2017-05-20,28.5,pre
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2017-05-20,28.56,pre
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2017-05-20,24.5,pre
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2017-05-20,15.15,pre
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2017-05-20,20.25,pre
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2017-05-20,19.05,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2017-05-20,12.5,pre
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2017-05-20,9.2,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2017-05-20,14.38,pre
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2017-05-20,11.75,pre
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2017-05-20,23.7,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2017-05-20,4.04,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2017-05-20,14.84,pre
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2017-05-20,5.1,pre
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2017-05-20,14.13,pre
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.93611,76.30417,2017-05-20,5.65,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2017-05-20,26.23,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2017-05-20,22.37,pre
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2017-05-20,24.05,pre
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2017-05-20,19.15,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2017-05-20,9.39,pre
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2017-05-20,23.9,pre
+Punjab,Ludhiana,Raikot Bassian,30.65778,75.53889,2018-01-01,32.4,jan
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2018-01-01,20.7,jan
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2018-01-01,30.6,jan
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2018-01-01,30.7,jan
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2018-01-01,30.2,jan
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2018-01-01,25.1,jan
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2018-01-01,15.0,jan
+Punjab,Ludhiana,Samrala Mehduda,30.81167,76.08056,2018-01-01,13.2,jan
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2018-01-01,20.3,jan
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2018-01-01,9.8,jan
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2018-01-01,25.7,jan
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2018-01-01,11.3,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2018-01-01,8.8,jan
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2018-01-01,25.2,jan
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2018-01-01,23.4,jan
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2018-01-01,27.1,jan
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2018-01-01,25.2,jan
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2018-01-01,29.2,jan
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2018-01-01,18.6,jan
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2018-01-01,22.8,jan
+Punjab,Ludhiana,Pakhowal Chaminala,30.77944,75.73722,2018-01-01,23.4,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2018-01-01,13.0,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2018-01-01,33.5,jan
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2018-01-01,30.6,jan
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2018-01-01,22.8,jan
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2018-01-01,20.9,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2018-01-01,24.5,jan
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2018-01-01,22.6,jan
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2018-01-01,24.3,jan
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2018-01-01,26.8,jan
+Punjab,Ludhiana,Jagraon Ragba,30.83222,75.64056,2018-01-01,21.5,jan
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2018-01-01,22.0,jan
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2018-01-01,19.4,jan
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2018-01-01,18.6,jan
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2018-01-01,9.0,jan
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2018-01-01,10.1,jan
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2018-01-01,19.4,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2018-01-01,19.0,jan
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2018-01-01,6.9,jan
+Punjab,Ludhiana,Ludhiana City Tandari Kallon,30.90833,75.85833,2018-01-01,37.3,jan
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,2018-01-01,24.0,jan
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2018-01-01,20.4,jan
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2018-01-01,8.9,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2018-01-01,17.0,jan
+Punjab,Ludhiana,Maloud Sahoran,30.65833,76.00833,2018-01-01,22.9,jan
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2018-01-01,24.1,jan
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2018-01-01,27.9,jan
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2018-01-01,15.0,jan
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.93611,76.30417,2018-01-01,5.2,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2018-01-01,4.0,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2018-01-01,14.3,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2018-01-01,12.2,jan
+Punjab,Ludhiana,Machhiwara Machhiwara,30.91667,76.2,2018-01-01,8.5,jan
+Punjab,Ludhiana,Machhiwara Lelon Kalan,30.85278,76.12083,2018-01-01,5.2,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2018-01-01,18.1,jan
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2018-01-01,5.9,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2018-01-01,12.8,jan
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2018-01-01,8.5,jan
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2018-01-01,5.9,jan
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2018-01-01,17.1,jan
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2018-01-01,23.0,jan
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2018-01-01,12.1,jan
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2018-05-20,30.96,pre
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2018-05-20,11.02,pre
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2018-05-20,6.55,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2018-05-20,13.38,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2018-05-20,9.3,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2018-05-20,12.6,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.97861,75.91194,2018-05-20,11.14,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2018-05-20,6.55,pre
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2018-05-20,17.5,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2018-05-20,10.56,pre
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2018-05-20,9.7,pre
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2018-05-20,23.85,pre
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2018-05-20,21.3,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2018-05-20,29.87,pre
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2018-05-20,31.25,pre
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2018-05-20,22.95,pre
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2018-05-20,21.7,pre
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2018-05-20,23.68,pre
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2018-05-20,22.8,pre
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2018-05-20,24.75,pre
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2018-05-20,28.8,pre
+Punjab,Ludhiana,Jagraon Ragba,30.83222,75.64056,2018-05-20,21.9,pre
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2018-05-20,22.5,pre
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2018-05-20,19.1,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2018-05-20,16.54,pre
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2018-05-20,18.55,pre
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2018-05-20,7.65,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2018-05-20,18.93,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2018-05-20,20.28,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2018-05-20,18.75,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.91667,76.2,2018-05-20,9.5,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2018-05-20,13.5,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2018-05-20,14.95,pre
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2018-05-20,24.8,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2018-05-20,28.68,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2018-05-20,23.34,pre
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2018-05-20,25.2,pre
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2018-05-20,20.6,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2018-05-20,9.8,pre
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2018-05-20,11.5,pre
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2018-05-20,25.05,pre
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2018-05-20,10.02,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2018-05-20,10.56,pre
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2018-05-20,19.85,pre
+Punjab,Ludhiana,Samrala Mehduda,30.81167,76.08056,2018-05-20,13.75,pre
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2018-05-20,21.3,pre
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2018-05-20,9.55,pre
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2018-05-20,15.5,pre
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2018-05-20,29.9,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2018-05-20,30.4,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2018-05-20,28.73,pre
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2018-05-20,22.9,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2018-05-20,17.7,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2018-05-20,15.0,pre
+Punjab,Ludhiana,Pakhowal Chaminala,30.77944,75.73722,2018-05-20,23.8,pre
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2018-05-20,24.1,pre
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2018-05-20,27.85,pre
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2018-05-20,15.83,pre
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2018-05-20,5.25,pre
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.93611,76.30417,2018-05-20,5.72,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2018-05-20,4.24,pre
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2018-05-20,27.95,pre
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2018-05-20,10.45,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2019-01-01,26.5,jan
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2019-01-01,7.2,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2019-01-01,12.2,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2019-01-01,14.3,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2019-01-01,3.7,jan
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.93611,76.30417,2019-01-01,5.3,jan
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2019-01-01,4.6,jan
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2019-01-01,15.3,jan
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2019-01-01,27.9,jan
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2019-01-01,23.5,jan
+Punjab,Ludhiana,Pakhowal Chaminala,30.77944,75.73722,2019-01-01,23.7,jan
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2019-01-01,23.1,jan
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2019-01-01,28.3,jan
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2019-01-01,31.1,jan
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2019-01-01,30.6,jan
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2019-01-01,30.4,jan
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2019-01-01,24.4,jan
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2019-01-01,15.1,jan
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2019-01-01,21.3,jan
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2019-01-01,18.4,jan
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2019-01-01,9.4,jan
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2019-01-01,26.9,jan
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2019-01-01,11.5,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2019-01-01,9.9,jan
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2019-01-01,19.9,jan
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2019-01-01,24.9,jan
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2019-01-01,23.6,jan
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2019-01-01,18.2,jan
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2019-01-01,5.9,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2019-01-01,12.9,jan
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2019-01-01,8.4,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2019-01-01,19.2,jan
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2019-01-01,19.8,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2019-01-01,9.8,jan
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2019-01-01,9.8,jan
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2019-01-01,8.3,jan
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2019-01-01,18.0,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2019-01-01,23.0,jan
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2019-01-01,19.6,jan
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2019-01-01,22.1,jan
+Punjab,Ludhiana,Jagraon Ragba,30.83222,75.64056,2019-01-01,21.1,jan
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2019-01-01,26.8,jan
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2019-01-01,24.8,jan
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2019-01-01,20.1,jan
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2019-01-01,22.6,jan
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2019-01-01,21.1,jan
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2019-01-01,23.2,jan
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2019-01-01,31.4,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2019-01-01,33.4,jan
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2019-01-01,20.8,jan
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2019-01-01,9.0,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2019-01-01,10.0,jan
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2019-01-01,16.9,jan
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2019-01-01,5.7,jan
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.97861,75.91194,2019-01-01,11.0,jan
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2019-01-01,11.4,jan
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2019-01-01,9.8,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2019-01-01,23.9,jan
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2019-01-01,23.5,jan
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2019-05-20,27.5,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2019-05-20,6.1,pre
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2019-05-20,24.8,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2019-05-20,23.0,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2019-05-20,27.9,pre
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2019-05-20,24.9,pre
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2019-05-20,4.8,pre
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.935,76.30361,2019-05-20,5.4,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2019-05-20,3.8,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2019-05-20,14.8,pre
+Punjab,Ludhiana,Machhiwara Nelokalan,30.85278,76.1175,2019-05-20,5.8,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2019-05-20,13.1,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2019-05-20,18.5,pre
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2019-05-20,6.1,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2019-05-20,13.2,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2019-05-20,8.7,pre
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2019-05-20,10.1,pre
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2019-05-20,20.0,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2019-05-20,11.5,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2019-05-20,10.5,pre
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2019-05-20,26.3,pre
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2019-05-20,23.3,pre
+Punjab,Ludhiana,Pakhowal Chaminala,30.77944,75.73722,2019-05-20,23.9,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2019-05-20,18.6,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2019-05-20,15.3,pre
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2019-05-20,22.7,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2019-05-20,28.4,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2019-05-20,30.6,pre
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2019-05-20,30.0,pre
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2019-05-20,30.7,pre
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2019-05-20,27.0,pre
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2019-05-20,15.0,pre
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2019-05-20,21.3,pre
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2019-05-20,19.1,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2019-05-20,7.3,pre
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2019-05-20,9.8,pre
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2019-05-20,12.8,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.97861,75.91194,2019-05-20,10.0,pre
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2019-05-20,23.0,pre
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2019-05-20,10.0,pre
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2019-05-20,7.3,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2019-05-20,18.9,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2019-05-20,21.3,pre
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2019-05-20,10.0,pre
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2019-05-20,10.1,pre
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2019-05-20,8.7,pre
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2019-05-20,17.5,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2019-05-20,24.1,pre
+Punjab,Ludhiana,Jagraon Manoke,30.67972,75.45889,2019-05-20,32.3,pre
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2019-05-20,19.7,pre
+Punjab,Ludhiana,Jagraon Ragba,30.83222,75.64056,2019-05-20,21.2,pre
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2019-05-20,28.5,pre
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2019-05-20,22.1,pre
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2019-05-20,22.7,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2019-05-20,6.0,pre
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2019-05-20,9.6,pre
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2019-05-20,24.3,pre
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2019-05-20,25.1,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2019-05-20,34.6,pre
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2019-05-20,21.2,pre
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2019-05-20,41.4,pre
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2019-05-20,15.4,pre
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2019-05-20,21.4,pre
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2019-05-20,23.9,pre
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2019-05-20,31.6,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2020-01-01,11.1,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2020-01-01,16.1,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2020-01-01,4.7,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2020-01-01,13.6,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2020-01-01,12.3,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2020-01-01,10.5,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2020-01-01,9.3,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2020-01-01,33.2,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2020-01-01,23.3,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2020-01-01,10.1,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2020-01-01,18.9,jan
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.97861,75.91194,2020-01-01,11.5,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2020-01-01,20.5,jan
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2020-05-20,27.1,pre
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2020-05-20,25.8,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2020-05-20,16.1,pre
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2020-05-20,24.0,pre
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2020-05-20,27.5,pre
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2020-05-20,16.0,pre
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2020-05-20,4.4,pre
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.935,76.30361,2020-05-20,5.6,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2020-05-20,3.3,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2020-05-20,14.2,pre
+Punjab,Ludhiana,Machhiwara Nelokalan,30.85278,76.1175,2020-05-20,5.1,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2020-05-20,12.5,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2020-05-20,18.0,pre
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2020-05-20,20.5,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2020-05-20,18.1,pre
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2020-05-20,5.9,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2020-05-20,8.4,pre
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2020-05-20,9.8,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2020-05-20,12.0,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.97861,75.91194,2020-05-20,11.7,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2020-05-20,5.2,pre
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2020-05-20,17.1,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2020-05-20,5.7,pre
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2020-05-20,9.1,pre
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2020-05-20,21.1,pre
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2020-05-20,22.3,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2020-05-20,33.8,pre
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2020-05-20,31.6,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2020-05-20,13.0,pre
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2020-05-20,25.9,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2020-05-20,29.0,pre
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2020-05-20,30.6,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2020-05-20,19.5,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2020-05-20,22.0,pre
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2020-05-20,9.7,pre
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2020-05-20,9.7,pre
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2020-05-20,8.5,pre
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2020-05-20,17.4,pre
+Punjab,Ludhiana,Jagraon Manoke,30.67972,75.45889,2020-05-20,32.9,pre
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2020-05-20,23.0,pre
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2020-05-20,24.5,pre
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2020-05-20,28.0,pre
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2020-05-20,25.0,pre
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2020-05-20,23.0,pre
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2020-05-20,42.2,pre
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2020-05-20,23.6,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2020-05-20,33.0,pre
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2020-05-20,27.1,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2020-05-20,10.9,pre
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2020-05-20,14.2,pre
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2020-05-20,27.1,pre
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2020-05-20,9.3,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2020-05-20,9.3,pre
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2020-05-20,19.5,pre
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2020-05-20,21.5,pre
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2020-05-20,14.6,pre
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2020-05-20,30.0,pre
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2020-05-20,32.1,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2020-05-20,23.9,pre
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2020-05-20,22.8,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2021-01-01,11.0,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2021-01-01,11.7,jan
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2021-01-01,7.4,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2021-01-01,16.1,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2021-01-01,17.7,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2021-01-01,3.8,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2021-01-01,12.6,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2021-01-01,12.9,jan
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2021-01-01,10.2,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2021-01-01,14.3,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2021-01-01,34.9,jan
+Punjab,Ludhiana,Ludhiana City Chattaringh Park,30.9,75.79167,2021-01-01,40.8,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2021-01-01,24.2,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2021-01-01,10.3,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2021-01-01,20.1,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2021-01-01,6.2,jan
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.935,76.30361,2021-05-20,8.5,pre
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,2021-05-20,25.4,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2021-05-20,16.3,pre
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2021-05-20,27.9,pre
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2021-05-20,16.1,pre
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2021-05-20,4.8,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2021-05-20,4.0,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2021-05-20,9.3,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.91667,76.2,2021-05-20,10.7,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2021-05-20,18.7,pre
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2021-05-20,6.0,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2021-05-20,13.6,pre
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2021-05-20,25.2,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2021-05-20,11.8,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2021-05-20,15.6,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2021-05-20,24.4,pre
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2021-05-20,15.3,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2021-05-20,32.7,pre
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2021-05-20,26.9,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2021-05-20,30.3,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2021-05-20,25.0,pre
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2021-05-20,26.3,pre
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2021-05-20,25.0,pre
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2021-05-20,13.9,pre
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2021-05-20,27.7,pre
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2021-05-20,9.5,pre
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2021-05-20,19.8,pre
+Punjab,Ludhiana,Samrala Mehduda,30.81167,76.08056,2021-05-20,14.0,pre
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2021-05-20,23.6,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2021-05-20,6.1,pre
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2021-05-20,28.4,pre
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2021-05-20,32.9,pre
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2021-05-20,31.7,pre
+Punjab,Ludhiana,Raikot Bassian,30.65778,75.53889,2021-05-20,34.3,pre
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2021-05-20,17.7,pre
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2021-05-20,22.8,pre
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2021-05-20,9.7,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2021-05-20,6.0,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2021-05-20,21.2,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2021-05-20,20.5,pre
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2021-05-20,10.8,pre
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2021-05-20,9.3,pre
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2021-05-20,14.0,pre
+Punjab,Ludhiana,Jagraon Manoke,30.67972,75.45889,2021-05-20,33.5,pre
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2021-05-20,21.7,pre
+Punjab,Ludhiana,Machhiwara Lelon Kalan,30.85278,76.12083,2021-05-20,5.3,pre
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2021-05-20,29.2,pre
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2021-05-20,24.8,pre
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2021-05-20,24.9,pre
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2021-05-20,21.2,pre
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2021-05-20,22.9,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2021-05-20,35.8,pre
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2021-05-20,22.4,pre
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2021-05-20,25.1,pre
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2021-05-20,23.3,pre
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2022-01-01,7.3,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2022-01-01,21.5,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2022-01-01,24.8,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2022-01-01,34.7,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2022-01-01,10.2,jan
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.97861,75.91194,2022-01-01,12.8,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2022-01-01,12.6,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2022-01-01,12.8,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2022-01-01,14.9,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2022-01-01,3.9,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2022-01-01,16.6,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2022-01-01,10.6,jan
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2022-01-01,10.2,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2022-01-01,11.7,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2022-05-20,24.8,pre
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2022-05-20,23.0,pre
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2022-05-20,24.7,pre
+Punjab,Ludhiana,Jagraon Manoke,30.67972,75.45889,2022-05-20,34.3,pre
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2022-05-20,23.2,pre
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2022-05-20,21.3,pre
+Punjab,Ludhiana,Jagraon Kaonke Kalan,30.7625,75.42083,2022-05-20,32.1,pre
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2022-05-20,30.1,pre
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2022-05-20,21.3,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.97861,75.91194,2022-05-20,12.2,pre
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2022-05-20,32.8,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2022-05-20,36.0,pre
+Punjab,Ludhiana,Ludhiana City Tandari Kallon,30.90833,75.85833,2022-05-20,39.1,pre
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2022-05-20,22.4,pre
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2022-05-20,25.8,pre
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2022-05-20,9.9,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2022-05-20,7.7,pre
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2022-05-20,18.1,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2022-05-20,6.3,pre
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2022-05-20,14.2,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2022-05-20,12.4,pre
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2022-05-20,23.0,pre
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2022-05-20,9.2,pre
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2022-05-20,8.0,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2022-05-20,21.0,pre
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2022-05-20,32.3,pre
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2022-05-20,34.1,pre
+Punjab,Ludhiana,Raikot Sajaywal,30.73028,75.53833,2022-05-20,29.8,pre
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2022-05-20,16.1,pre
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2022-05-20,21.9,pre
+Punjab,Ludhiana,Samrala Mehduda,30.81167,76.08056,2022-05-20,13.8,pre
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2022-05-20,20.0,pre
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2022-05-20,8.7,pre
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2022-05-20,28.2,pre
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2022-05-20,14.2,pre
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2022-05-20,21.8,pre
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2022-05-20,26.8,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2022-05-20,25.0,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2022-05-20,31.6,pre
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2022-05-20,27.1,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2022-05-20,33.4,pre
+Punjab,Ludhiana,Raikot Bassian,30.65778,75.53889,2022-05-20,35.3,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2022-05-20,30.8,pre
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2022-05-20,25.2,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2022-05-20,20.4,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2022-05-20,9.5,pre
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2022-05-20,13.2,pre
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2022-05-20,5.9,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2022-05-20,19.1,pre
+Punjab,Ludhiana,Machhiwara Machhiwara,30.91667,76.2,2022-05-20,9.9,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2022-05-20,13.5,pre
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2022-05-20,10.8,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2022-05-20,15.1,pre
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.935,76.30361,2022-05-20,4.6,pre
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2022-05-20,4.8,pre
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2022-05-20,16.3,pre
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2022-05-20,28.5,pre
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2022-05-20,24.6,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2022-05-20,16.9,pre
+Punjab,Ludhiana,Pakhowal Mansuran,30.80833,75.75833,2022-05-20,25.3,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2022-05-20,3.9,pre
+Punjab,Ludhiana,Machhiwara Lelon Kalan,30.85278,76.12083,2022-05-20,6.3,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2023-01-01,20.7,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2023-01-01,9.9,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2023-01-01,13.4,jan
+Punjab,Ludhiana,Doraha Begowal,30.81667,76.05556,2023-01-01,10.2,jan
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2023-01-01,26.4,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2023-01-01,24.9,jan
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2023-01-01,10.4,jan
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.97861,75.91194,2023-01-01,11.7,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2023-01-01,31.0,jan
+Punjab,Ludhiana,Machhiwara Bhahlolpur,30.90417,76.28889,2023-01-01,12.7,jan
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2023-01-01,12.3,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2023-01-01,13.8,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2023-01-01,3.8,jan
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2023-01-01,16.8,jan
+Punjab,Ludhiana,Ludhiana-2 Punjeta,30.87278,76.0875,2023-01-01,10.3,jan
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.97861,75.91194,2023-05-20,12.2,pre
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2023-05-20,9.7,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2023-05-20,11.5,pre
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2023-05-20,17.9,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2023-05-20,7.4,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2023-05-20,9.4,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2023-05-20,15.5,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2023-05-20,18.8,pre
+Punjab,Ludhiana,Machhiwara Manewal,30.93528,76.16306,2023-05-20,3.7,pre
+Punjab,Ludhiana,Machhiwara Mushkabad,30.86611,76.23139,2023-05-20,13.5,pre
+Punjab,Ludhiana,Machhiwara Nelokalan,30.85278,76.1175,2023-05-20,5.4,pre
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2023-05-20,23.1,pre
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2023-05-20,5.8,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2023-05-20,31.7,pre
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2023-05-20,30.4,pre
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2023-05-20,23.0,pre
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2023-05-20,21.3,pre
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2023-05-20,25.2,pre
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2023-05-20,23.3,pre
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2023-05-20,25.2,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2023-05-20,4.1,pre
+Punjab,Ludhiana,Jagraon Rasulpur,30.69583,75.39083,2023-05-20,33.8,pre
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2023-05-20,23.9,pre
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2023-05-20,22.7,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.775,75.47083,2023-05-20,27.9,pre
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2023-05-20,14.3,pre
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2023-05-20,10.7,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2023-05-20,21.5,pre
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2023-05-20,7.8,pre
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2023-05-20,33.0,pre
+Punjab,Ludhiana,Machhiwara Sherpur Bhet,30.935,76.30361,2023-05-20,4.4,pre
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2023-05-20,9.4,pre
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2023-05-20,16.5,pre
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2023-05-20,5.6,pre
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2023-05-20,28.1,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2023-05-20,32.5,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2023-05-20,25.5,pre
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2023-05-20,27.4,pre
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2023-05-20,23.4,pre
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2023-05-20,14.4,pre
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2023-05-20,9.2,pre
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2023-05-20,11.0,pre
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2023-05-20,28.5,pre
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2023-05-20,21.5,pre
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2023-05-20,15.6,pre
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2023-05-20,35.4,pre
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2023-05-20,33.2,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2023-05-20,34.6,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2023-05-20,31.1,pre
+Punjab,Ludhiana,Pakhowal Lil,30.72639,75.7,2023-05-20,17.4,pre
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2023-05-20,25.7,pre
+Punjab,Ludhiana,Samrala Sangatpura,30.80417,76.25833,2023-05-20,19.8,pre
+Punjab,Ludhiana,Machhiwara Manewal,30.93528,76.16306,2024-01-01,4.6,jan
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2024-01-01,11.9,jan
+Punjab,Ludhiana,Samrala Utlan,30.81944,76.19667,2024-01-01,11.4,jan
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2024-01-01,2.6,jan
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2024-01-01,36.4,jan
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2024-01-01,15.5,jan
+Punjab,Ludhiana,Jagraon Rasulpur,30.69583,75.39083,2024-01-01,35.6,jan
+Punjab,Ludhiana,Dehlon Gopalpur,30.7375,75.84167,2024-01-01,21.8,jan
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2024-01-01,7.4,jan
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2024-01-01,26.1,jan
+Punjab,Ludhiana,Machhiwara Hambowal,30.95278,76.24972,2024-05-10,5.7,pre
+Punjab,Ludhiana,Ludhiana-2 Upplan,30.8875,76.1125,2024-05-10,9.6,pre
+Punjab,Ludhiana,Ludhiana-2 Mangat,30.98056,75.9125,2024-05-10,11.9,pre
+Punjab,Ludhiana,Dehlon Doraha,30.8,76.02083,2024-05-10,8.2,pre
+Punjab,Ludhiana,Ludhiana-2 Chaunta,30.96,76.05972,2024-05-10,7.2,pre
+Punjab,Ludhiana,Ludhiana-1 Sanewal,30.83722,75.8375,2024-05-10,17.9,pre
+Punjab,Ludhiana,Ludhiana-1 Lalan,30.85,76.075,2024-05-10,11.8,pre
+Punjab,Ludhiana,Ludhiana-1 Katanikalan,30.84917,76.08222,2024-05-10,9.6,pre
+Punjab,Ludhiana,Ludhiana-1 Gohaur,30.86667,75.71806,2024-05-10,25.8,pre
+Punjab,Ludhiana,Ludhiana-1 Alamgir,30.79417,75.85667,2024-05-10,23.5,pre
+Punjab,Ludhiana,Ludhiana City Ludhiana,30.90278,75.81111,2024-05-10,32.7,pre
+Punjab,Ludhiana,Ludhiana City Kohara,30.84861,75.88861,2024-05-10,33.4,pre
+Punjab,Ludhiana,Khanna Kishangarh,30.73861,76.16111,2024-05-10,21.3,pre
+Punjab,Ludhiana,Khanna Ikloha,30.70194,76.21861,2024-05-10,26.0,pre
+Punjab,Ludhiana,Khanna Dinnamder,30.64694,76.06889,2024-05-10,24.1,pre
+Punjab,Ludhiana,Khanna Bharthala,30.56833,76.08056,2024-05-10,26.0,pre
+Punjab,Ludhiana,Jagraon Roomi,30.72861,75.5125,2024-05-10,31.8,pre
+Punjab,Ludhiana,Jagraon Rasulpur,30.69583,75.39083,2024-05-10,35.1,pre
+Punjab,Ludhiana,Jagraon Pandori,30.79278,75.56139,2024-05-10,25.7,pre
+Punjab,Ludhiana,Jagraon Pabbian,30.79278,75.56139,2024-05-10,24.1,pre
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2024-05-10,18.6,pre
+Punjab,Ludhiana,Doraha Chankian,30.75833,76.02194,2024-05-10,10.0,pre
+Punjab,Ludhiana,Dehlon Harnampur,30.83056,75.92361,2024-05-10,21.6,pre
+Punjab,Ludhiana,Doraha Bilaspur,30.75528,75.96083,2024-05-10,11.4,pre
+Punjab,Ludhiana,Machhiwara Hedon,30.82917,76.2625,2024-05-10,18.6,pre
+Punjab,Ludhiana,Khanna Manak Majra,30.70028,76.26472,2024-05-10,22.3,pre
+Punjab,Ludhiana,Machhiwara Manewal,30.93528,76.16306,2024-05-10,4.7,pre
+Punjab,Ludhiana,Maloud Rashiana,30.66222,75.92361,2024-05-10,26.0,pre
+Punjab,Ludhiana,Machhiwara Samrala,30.88333,76.2,2024-05-10,16.2,pre
+Punjab,Ludhiana,Sudhar Rattewal,30.74889,75.67167,2024-05-10,30.0,pre
+Punjab,Ludhiana,Machhiwara Nelokalan,30.85278,76.1175,2024-05-10,5.5,pre
+Punjab,Ludhiana,Sudhar Khandur,30.79583,75.72361,2024-05-10,26.7,pre
+Punjab,Ludhiana,Sudhar Chhapar,30.74028,75.67167,2024-05-10,28.7,pre
+Punjab,Ludhiana,Sidhwan Bet Talwandi,30.85028,75.59083,2024-05-10,23.5,pre
+Punjab,Ludhiana,Sidhwan Bet Sidhwan Bet,30.92333,75.44,2024-05-10,12.7,pre
+Punjab,Ludhiana,Sidhwan Bet Safipura,30.93561,75.46582,2024-05-10,14.2,pre
+Punjab,Ludhiana,Sidhwan Bet Lodhiwal,30.93194,75.41167,2024-05-10,14.5,pre
+Punjab,Ludhiana,Sidhwan Bet Galibkalan,30.83528,75.40167,2024-05-10,29.4,pre
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94259,75.57607,2024-05-10,14.3,pre
+Punjab,Ludhiana,Sidhwan Bet Aliwal,30.94528,75.61278,2024-05-10,10.0,pre
+Punjab,Ludhiana,Sudhar Rajoera Khurd,30.725,75.59167,2024-05-10,33.8,pre
+Punjab,Ludhiana,Samrala Bhagwanpur,30.825,76.16111,2024-05-10,15.4,pre
+Punjab,Ludhiana,Samrala Dodpur,30.7375,76.18333,2024-05-10,21.7,pre
+Punjab,Ludhiana,Machhiwara Udonwal,30.96389,76.1625,2024-05-10,5.6,pre
+Punjab,Ludhiana,Maloud Bhikhi Khatron,30.7125,75.93333,2024-05-10,17.3,pre
+Punjab,Ludhiana,Maloud Kishanpur,30.61917,75.9575,2024-05-10,29.9,pre
+Punjab,Ludhiana,Pakhowal Mehmaingh Wala,30.74806,75.785,2024-05-10,26.9,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.9375,76.24444,2024-05-10,4.1,pre
+Punjab,Ludhiana,Raikot Bassian,30.65778,75.53889,2024-05-10,37.9,pre
+Punjab,Ludhiana,Raikot Kalsian,30.63333,75.67917,2024-05-10,37.7,pre
+Punjab,Ludhiana,Raikot Nurpur,30.69222,75.61278,2024-05-10,35.2,pre
+Punjab,Ludhiana,Raikot Raikot,30.64389,75.70278,2024-05-10,36.9,pre
+Punjab,Ludhiana,Pakhowal Rashin,30.64583,75.7375,2024-05-10,33.0,pre
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.94028,75.58889,2025-01-10,13.75,jan
+Punjab,Ludhiana,Doraha Payal,30.72556,76.06361,2025-01-10,19.63,jan
+Punjab,Ludhiana,Doraha Maksudra,30.73448,76.01872,2025-01-10,13.92,jan
+Punjab,Ludhiana,Ludhiana-1 Pau Ludiana,30.90224,75.81078,2025-05-25,37.84,pre
+Punjab,Ludhiana,Doraha Doraha,30.80307,76.01982,2025-05-25,8.5,pre
+Punjab,Ludhiana,Doraha Maksudra,30.73448,76.01872,2025-05-25,14.57,pre
+Punjab,Ludhiana,Jagraon Jagraon,30.81267,75.47762,2025-05-25,32.44,pre
+Punjab,Ludhiana,Jagraon Rasulpur,30.69974,75.39361,2025-05-25,35.77,pre
+Punjab,Ludhiana,Khanna Ikloha,30.68669,76.16456,2025-05-25,26.73,pre
+Punjab,Ludhiana,Machhiwara Manewal,30.93803,76.16172,2025-05-25,4.71,pre
+Punjab,Ludhiana,Sidhwan Bet Safipura,30.93532,75.46587,2025-05-25,11.84,pre
+Punjab,Ludhiana,Samrala Lallian Kalan,30.83543,76.10484,2025-05-25,11.67,pre
+Punjab,Ludhiana,Samrala Samrala,30.83807,76.18441,2025-05-25,16.65,pre
+Punjab,Ludhiana,Samrala Sidhwan Bet,30.92321,75.47456,2025-05-25,11.89,pre
+Punjab,Ludhiana,Samrala Utlan,30.82045,76.19627,2025-05-25,11.48,pre
+Punjab,Ludhiana,Sidhwan Bet Basian Bet,30.90169,75.62425,2025-05-25,21.97,pre
+Punjab,Ludhiana,Sidhwan Bet Bhundri,30.9416,75.5728,2025-05-25,14.92,pre
+Punjab,Ludhiana,Sudhar Hallawara,30.72324,75.63804,2025-05-25,34.83,pre
+Punjab,Ludhiana,Machhiwara Sherian,30.93854,76.24407,2025-05-25,5.16,pre
+Punjab,Ludhiana,Dehlon Gopalpur,30.73361,75.84696,2025-05-25,23.3,pre

@@ -1,0 +1,50 @@
+{
+  "model_name": "Hist Gradient Boosting",
+  "trained_at": "2026-09-22T16:48:43.079570",
+  "training_period": "1994-2018",
+  "test_period": "2019-2025",
+  "n_observations": 1785,
+  "n_train": 1295,
+  "n_test": 490,
+  "features": [
+    "year",
+    "month",
+    "measurement_period",
+    "latitude",
+    "longitude",
+    "lag_1_mbgl",
+    "lag_2_mbgl",
+    "historical_mean_mbgl"
+  ],
+  "target": "groundwater_level_m_bgl",
+  "validation_method": "Chronological held-out / one-step-ahead evaluation (1994-2018 train, 2019-2025 test; lag features use preceding observed measurements)",
+  "evaluation_note": "Evaluated as a chronological one-step-ahead test. Test R\u00b2 reflects one-step accuracy given preceding observed depths, not a guarantee of recursive multi-step forecasting performance.",
+  "metrics": {
+    "mae": 1.237,
+    "rmse": 2.1328,
+    "r2": 0.9456
+  },
+  "all_results": {
+    "Linear Regression": {
+      "mae": 1.5924,
+      "rmse": 2.8941,
+      "r2": 0.8998
+    },
+    "Random Forest": {
+      "mae": 1.2952,
+      "rmse": 2.2714,
+      "r2": 0.9383
+    },
+    "Gradient Boosting": {
+      "mae": 1.341,
+      "rmse": 2.3254,
+      "r2": 0.9353
+    },
+    "Hist Gradient Boosting": {
+      "mae": 1.237,
+      "rmse": 2.1328,
+      "r2": 0.9456
+    }
+  },
+  "data_path": "backend/data/cgwb_data.csv"
+}
