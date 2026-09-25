@@ -14,7 +14,14 @@ import type {
   CropYearQueryResponse,
 } from '@/types';
 
-const API_BASE = 'http://localhost:8000';
+const rawBase =
+  import.meta.env.VITE_API_URL ||
+  import.meta.env.VITE_API_BASE_URL ||
+  (import.meta.env.PROD
+    ? 'https://agri-predict-ai.onrender.com'
+    : 'http://localhost:8000');
+
+export const API_BASE = rawBase.replace(/\/+$/, '');
 
 async function fetchJSON<T>(url: string, options?: RequestInit): Promise<T> {
   const res = await fetch(`${API_BASE}${url}`, {
