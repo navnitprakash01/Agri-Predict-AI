@@ -129,3 +129,21 @@ def test_features_do_not_contain_station_id():
         'lag_2_mbgl',
         'historical_mean_mbgl',
     ]
+
+
+def test_model_artifact_cross_version_compatibility():
+    """Verify model artifact contains no NumPy 2.x BitGenerator references and loads cleanly."""
+    model_path = os.path.join(os.path.dirname(__file__), "..", "models", "groundwater_model.joblib")
+    assert os.path.exists(model_path)
+    with open(model_path, 'rb') as f:
+        content = f.read()
+    assert b'PCG64' not in content
+    assert b'_pcg64' not in content
+    assert b'bit_generator' not in content
+
+    import joblib
+    model = joblib.load(model_path)
+    assert model is not None
+    reg = model.named_steps.get('regressor')
+    assert reg is not None
+    assert getattr(reg, '_feature_subsample_rng', None) is None

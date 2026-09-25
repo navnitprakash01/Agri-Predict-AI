@@ -139,9 +139,20 @@ def main():
     print(f"Best model: {best_name}  (RMSE={best['rmse']:.4f}, R²={best['r2']:.4f})")
     print(f"{'=' * 60}")
 
+    # Ensure cross-version NumPy/scikit-learn pickle compatibility (NumPy 1.x <-> 2.x)
+    # HistGradientBoostingRegressor stores an internal `_feature_subsample_rng` (a Generator wrapping
+    # a BitGenerator) which is only used during fit() when features_subsample < 1.0.
+    # Serializing this BitGenerator causes unpickling failures across NumPy versions
+    # ("is not a known BitGenerator module"). Setting it to None before dumping ensures
+    # the trained model artifact is clean, lightweight, and universally loadable.
+    best_pipeline = best["pipeline"]
+    regressor = best_pipeline.named_steps.get("regressor")
+    if hasattr(regressor, "_feature_subsample_rng"):
+        regressor._feature_subsample_rng = None
+
     # Save model pipeline
     model_path = os.path.join(MODEL_DIR, "groundwater_model.joblib")
-    joblib.dump(best["pipeline"], model_path)
+    joblib.dump(best_pipeline, model_path)
     print(f"Saved model -> {model_path}")
 
     # Save metadata

@@ -23,6 +23,32 @@ from ml.feature_engineering import (
     engineer_features,
 )
 
+# Cross-version compatibility patch for NumPy BitGenerator unpickling (NumPy 2.x <-> NumPy 1.x)
+try:
+    import numpy.random._pickle as _npr_pickle
+
+    for _bg_cls in list(_npr_pickle.BitGenerators.values()):
+        _npr_pickle.BitGenerators[_bg_cls] = _bg_cls
+        _npr_pickle.BitGenerators[str(_bg_cls)] = _bg_cls
+
+    _orig_bit_gen_ctor = _npr_pickle.__bit_generator_ctor
+
+    def _safe_bit_generator_ctor(bit_generator="MT19937"):
+        if isinstance(bit_generator, type):
+            return bit_generator()
+        if bit_generator in _npr_pickle.BitGenerators:
+            cls = _npr_pickle.BitGenerators[bit_generator]
+            return cls() if isinstance(cls, type) else cls
+        name = getattr(bit_generator, "__name__", str(bit_generator))
+        if name in _npr_pickle.BitGenerators:
+            cls = _npr_pickle.BitGenerators[name]
+            return cls() if isinstance(cls, type) else cls
+        return _orig_bit_gen_ctor(bit_generator)
+
+    _npr_pickle.__bit_generator_ctor = _safe_bit_generator_ctor
+except Exception:
+    pass
+
 MODEL_DIR = os.path.join(os.path.dirname(__file__), "..", "models")
 MODEL_PATH = os.path.join(MODEL_DIR, "groundwater_model.joblib")
 META_PATH = os.path.join(MODEL_DIR, "model_metadata.json")
